@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+# This is a list of wonderful things.
+
+- Playing Golf
+- Soccer 
+- Good Times
+  - a good Cigar
+  - good food
+  - good friends
+ - My dogs
+ - Family
