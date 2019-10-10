@@ -3,8 +3,9 @@
 - Playing Golf
 - Soccer 
 - Good Times
-  - a good Cigar
-  - good food
-  - good friends
+  = a good Cigar
+  = good food
+  = good friends
  - My dogs
  - Family
+ - Cape Cod
