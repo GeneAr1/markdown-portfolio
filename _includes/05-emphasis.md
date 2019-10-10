@@ -1,0 +1,5 @@
+- *Generous*
+- __kind__
+- *__loving__*
+- __smart__
+- *I do not like to __blow my own horn__....*
