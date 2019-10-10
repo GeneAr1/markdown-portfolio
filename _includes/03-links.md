@@ -1,1 +1,4 @@
-![Linkedin Profile](http://www.linkedin.com/in/eugenearsenault)
+## Links
+
+[Linkedin Profile](http://www.linkedin.com/in/eugenearsenault)
+
